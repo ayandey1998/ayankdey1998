@@ -1,4 +1,3 @@
-[![MasterHead] (https://gamakaai.com/wp-content/uploads/2020/07/DS-With-Python-Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Ayan Kumar Dey</h1>
 <h3 align="center">A passionate backend developer and an AI/ML enthusiast from India</h3>
